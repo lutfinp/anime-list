@@ -25,8 +25,8 @@ img:hover {
     height: 100px;
     border-radius: 50%;
     background: 
-      radial-gradient(farthest-side,#ffc639 94%,#0000) top/16px 16px no-repeat,
-      conic-gradient(#0000 30%,#ffc639);
+      radial-gradient(farthest-side,#009f85 94%,#0000) top/16px 16px no-repeat,
+      conic-gradient(#0000 30%,#009f85);
     mask: radial-gradient(farthest-side,#0000 calc(100% - 16px),#000 0);
     animation:s3 1s infinite linear;
   }
